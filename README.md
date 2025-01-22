@@ -23,7 +23,7 @@ F12 ye basarak ya da "YT- GOBLINHAN" düğmesine basarak programı çalıştır�
 RAGE modunu kapatmak için tekrar f12 ye basabilirsiniz. 
 
 KULLANDIĞINIZ PROGRAMLARDA (discord, vs) MİKROFON OLARAK "CABLE OUTPUT(VB-AUDIO CABLE) seçin. 
-**BU ADIMI YAPMAZSANIZ HEUMRAGE OLARAK DUYULAMAZSINIZ.
+**BU ADIMI YAPMAZSANIZ RAGE OLARAK DUYULAMAZSINIZ.
 
 
 program açık kaldığı sürece bu mikrofon çıkışı normal mikrofon olarak çalışır. programı kapatırsanız
