@@ -1,16 +1,7 @@
-Aga bu programı açmak istemiyorsan seni çok iyi anlarım, çok korkutucu duruyor farkındayım.
-ama içini rahatlatacak ise kaynak kodlarını bu klasöre koydum, önce kodu incele, sonra aç.
 
 ÇALIŞTIRMA ADIMLARI:
 
-
-bu programı kullanmak için VB AUDIO CABLE indirmeniz gerekiyor. 
-
-https://vb-audio.com/Cable/index.htm
-
-burdan indirebilirsiniz. 
-
-**VB CABLE OLMADAN BU PROGRAM ÇALIŞMAZ, BANA GELİP MESAJ ATARSANIZ KAFANIZA HİDROJEN ATARIM.**
+bu programı kullanmak için  [VB Cable Driver](https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip) indirmeniz gerekiyor. 
 
 PROGRAMI KULLANMAK İÇİN:
 
